@@ -1,4 +1,4 @@
-SHUT_UP
+<img src='https://github.com/175M3H3RE/175M3H3RE/blob/be90b08342afde7c1aa27dc92193a2240e481df9/christian_p.png'>
 
 <!--
 **175M3H3RE/175M3H3RE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
